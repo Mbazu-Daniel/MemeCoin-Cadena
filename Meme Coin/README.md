@@ -1,0 +1,3 @@
+# Contract deployed
+MemeCoin contract deployed to: 0x8D675f0bD72d26e70163Aa7ecf06564A4551a193
+MemeCoin contract owner address: 0x92219f351d2eD621AFAF70004cc3aB985fC2bD07
